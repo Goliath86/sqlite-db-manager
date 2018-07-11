@@ -57,3 +57,15 @@ D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.cspro
 D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.CopyComplete
 D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
 D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\bin\Debug\app.config
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.pdb
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.Properties.Resources.resources
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.GenerateResource.cache
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.CoreCompileInputs.cache
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.CopyComplete
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+D:\Dropbox\Progetti Mattia\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csprojAssemblyReference.cache
