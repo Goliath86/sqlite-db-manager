@@ -1,0 +1,59 @@
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\app.config
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.pdb
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.Properties.Resources.resources
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+C:\Users\Goliath\Documents\My Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+C:\Users\Marz\Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+C:\Users\Marz\Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+C:\Users\Marz\Dropbox\DeltaLaserTag\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\app.config
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.pdb
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.dll
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.Properties.Resources.resources
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Marz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.pdb
+C:\Users\Goliath\Documents\My Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+C:\Users\Goliath\Documents\My Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+C:\Users\Goliath\Documents\My Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\app.config
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.pdb
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.pdb
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csprojResolveAssemblyReference.cache
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.Properties.Resources.resources
+D:\Programmi\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.GenerateResource.Cache
+C:\Users\amarz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+C:\Users\amarz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+C:\Users\amarz\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\app.config
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe.config
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.exe
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\SQLite_DB_Manager.pdb
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\bin\Debug\System.Data.SQLite.pdb
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csprojAssemblyReference.cache
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.Properties.Resources.resources
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.GenerateResource.cache
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.CoreCompileInputs.cache
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DBM.csproj.CopyComplete
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.exe
+D:\Dropbox\Progetti C#\SQLite_DB_Manager\MySQL_DB\obj\x86\Debug\SQLite_DB_Manager.pdb
